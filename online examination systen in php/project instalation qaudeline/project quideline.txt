@@ -1,0 +1,28 @@
+-Online examination system features-
+devoloped bay ahmed hassan ahmed
+
+1.Login system must be present and secured by password.
+2.Ability to save the answer given by the candidate along with the question.
+3.Answer checking system should be available.
+4.Could Update Profile
+5.Log out after the over.
+6.Admin Panel
+
+Brief overview of the technology: Online Examination System in PHP
+
+Front end: HTML, CSS, JavaScript
+
+HTML: HTML is used to create and save web document. E.g. Notepad/Notepad++
+CSS : (Cascading Style Sheets) Create attractive Layout
+Bootstrap : responsive design mobile freindly site
+JavaScript: it is a programming language, commonly use with web browsers.
+
+Back end: PHP, MySQL
+
+Software Requirement(any one) : Online Examination System in PHP
+
+WAMP Server
+XAMPP Server
+MAMP Server
+LAMP Server
+
